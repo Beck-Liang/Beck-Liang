@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Welcome to visit my place, take easy and relax😎
-I name is Beck, enjoy the day.
+#### Welcome to visit my place, take easy and relax😎
+#### My name is Beck, enjoy the day.
 
 <!--
 **Beck-Liang/Beck-Liang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
